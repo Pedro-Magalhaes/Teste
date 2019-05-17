@@ -1,4 +1,4 @@
-HDI rank,Country,GDI_Value,GDI_Group,HDI_f,HDI_m,life_expectancy_f,life_expectancy_m,Expected_years_of_schooling_f,Expected_years_of_schooling_m,Mean_ years_of_schooling_f,Mean_ years_of_schooling_m,Estimated_gross national_income_per_capita_f,Estimated_gross national_income_per_capita_m
+HDI_rank,Country,GDI_Value,GDI_Group,HDI_f,HDI_m,life_expectancy_f,life_expectancy_m,Expected_years_of_schooling_f,Expected_years_of_schooling_m,Mean_years_of_schooling_f,Mean_years_of_schooling_m,Estimated_gross_national_income_per_capita_f,Estimated_gross_national_income_per_capita_m
 1,Norway,0.991,1,0.945,0.953,84.2,80.5,18.6,17.2,12.6,12.5,60.153,75.731
 2,Switzerland,0.987,1,0.937,0.949,85.3,81.5,16.1,16.3,13.9,12.9,47.938,67.490
 3,Australia,0.975,2,0.926,0.950,85.0,81.2,23.3,22.5,12.9,12.8,35.323,51.857
@@ -168,7 +168,7 @@ HDI rank,Country,GDI_Value,GDI_Group,HDI_f,HDI_m,life_expectancy_f,life_expectan
 167,Sudan,0.831,5,0.446,0.537,66.3,63.1,7.2,7.7,3.1,4.1,1.785,6.455
 168,Afghanistan,0.625,5,0.364,0.583,65.4,62.8,8.0,12.7,1.9,6.0,541,3.030
 168,Haiti,..,..,..,..,65.8,61.4,..,..,4.3,6.6,1.400,1.937
-170,Côte d'Ivoire,0.841,5,0.446,0.531,55.7,52.7,8.1,10.0,4.0,6.2,2.529,4.409
+170,CÃ´te d'Ivoire,0.841,5,0.446,0.531,55.7,52.7,8.1,10.0,4.0,6.2,2.529,4.409
 171,Malawi,0.936,3,0.460,0.492,66.2,61.0,10.9,10.8,4.0,5.1,897,1.235
 172,Djibouti,..,..,..,..,64.4,61.0,5.8,6.7,..,..,2.491,4.286
 173,Ethiopia,0.846,5,0.424,0.501,67.8,64.0,8.2,9.1,1.6,3.8,1.304,2.136
