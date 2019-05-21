@@ -1,4 +1,4 @@
-regiao,GII_value,GII_rank,maternal_mortality_ratio,adolescent_birth_rate,share_of_seats_parliament,population_above_secundary_f,population_above_secundary_m,labour_force_participation_rate_f,labour_force_participation_rate_m
+regiao,GII_value,GII_rank,maternal_mortality_ratio,adolescent_birth_rate,share_of_seats_parliament_m,population_above_secundary_f,population_above_secundary_m,labour_force_participation_rate_f,labour_force_participation_rate_m
 Arab States,0.531,,149,46.3,18.0,45.1,54.6,20.7,74.2
 East Asia and the Pacific,0.312,,62,22.4,19.8,67.8,75.5,60.1,77.3
 Europe and Central Asia,0.270,,24,25.5,20.7,78.4,85.9,45.5,70.3
