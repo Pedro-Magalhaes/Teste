@@ -1,625 +1,601 @@
-﻿Edition,Measure Name,State Name,Value
-2015,High School Graduation,Alabama,80
-2015,High School Graduation,Alaska,71.8
-2015,High School Graduation,Arizona,75.1
-2015,High School Graduation,Arkansas,84.9
-2015,High School Graduation,California,80.4
-2015,High School Graduation,Colorado,76.9
-2015,High School Graduation,Connecticut,85.5
-2015,High School Graduation,Delaware,80.4
-2015,High School Graduation,Florida,75.6
-2015,High School Graduation,Georgia,71.7
-2015,High School Graduation,Hawaii,82.4
-2015,High School Graduation,Idaho,
-2015,High School Graduation,Illinois,83.2
-2015,High School Graduation,Indiana,87
-2015,High School Graduation,Iowa,89.7
-2015,High School Graduation,Kansas,85.7
-2015,High School Graduation,Kentucky,86.1
-2015,High School Graduation,Louisiana,73.5
-2015,High School Graduation,Maine,86.4
-2015,High School Graduation,Maryland,85
-2015,High School Graduation,Massachusetts,85
-2015,High School Graduation,Michigan,77
-2015,High School Graduation,Minnesota,79.8
-2015,High School Graduation,Mississippi,75.5
-2015,High School Graduation,Missouri,85.7
-2015,High School Graduation,Montana,84.4
-2015,High School Graduation,Nebraska,88.5
-2015,High School Graduation,Nevada,70.7
-2015,High School Graduation,New Hampshire,87.3
-2015,High School Graduation,New Jersey,87.5
-2015,High School Graduation,New Mexico,70.3
-2015,High School Graduation,New York,76.8
-2015,High School Graduation,North Carolina,82.5
-2015,High School Graduation,North Dakota,87.5
-2015,High School Graduation,Ohio,82.2
-2015,High School Graduation,Oklahoma,84.8
-2015,High School Graduation,Oregon,68.7
-2015,High School Graduation,Pennsylvania,85.5
-2015,High School Graduation,Rhode Island,79.7
-2015,High School Graduation,South Carolina,77.6
-2015,High School Graduation,South Dakota,82.7
-2015,High School Graduation,Tennessee,86.3
-2015,High School Graduation,Texas,88
-2015,High School Graduation,Utah,83
-2015,High School Graduation,Vermont,86.6
-2015,High School Graduation,Virginia,84.5
-2015,High School Graduation,Washington,76.4
-2015,High School Graduation,West Virginia,81.4
-2015,High School Graduation,Wisconsin,88
-2015,High School Graduation,Wyoming,77
-2015,High School Graduation,District of Columbia,62.3
-2015,High School Graduation,United States,81.4
-2015,Income Inequality - Gini Index,Alabama,0.476
-2015,Income Inequality - Gini Index,Alaska,0.418
-2015,Income Inequality - Gini Index,Arizona,0.468
-2015,Income Inequality - Gini Index,Arkansas,0.471
-2015,Income Inequality - Gini Index,California,0.489
-2015,Income Inequality - Gini Index,Colorado,0.458
-2015,Income Inequality - Gini Index,Connecticut,0.501
-2015,Income Inequality - Gini Index,Delaware,0.449
-2015,Income Inequality - Gini Index,Florida,0.483
-2015,Income Inequality - Gini Index,Georgia,0.48
-2015,Income Inequality - Gini Index,Hawaii,0.433
-2015,Income Inequality - Gini Index,Idaho,0.454
-2015,Income Inequality - Gini Index,Illinois,0.477
-2015,Income Inequality - Gini Index,Indiana,0.446
-2015,Income Inequality - Gini Index,Iowa,0.443
-2015,Income Inequality - Gini Index,Kansas,0.46
-2015,Income Inequality - Gini Index,Kentucky,0.47
-2015,Income Inequality - Gini Index,Louisiana,0.49
-2015,Income Inequality - Gini Index,Maine,0.459
-2015,Income Inequality - Gini Index,Maryland,0.449
-2015,Income Inequality - Gini Index,Massachusetts,0.486
-2015,Income Inequality - Gini Index,Michigan,0.46
-2015,Income Inequality - Gini Index,Minnesota,0.454
-2015,Income Inequality - Gini Index,Mississippi,0.476
-2015,Income Inequality - Gini Index,Missouri,0.463
-2015,Income Inequality - Gini Index,Montana,0.454
-2015,Income Inequality - Gini Index,Nebraska,0.435
-2015,Income Inequality - Gini Index,Nevada,0.443
-2015,Income Inequality - Gini Index,New Hampshire,0.441
-2015,Income Inequality - Gini Index,New Jersey,0.476
-2015,Income Inequality - Gini Index,New Mexico,0.477
-2015,Income Inequality - Gini Index,New York,0.511
-2015,Income Inequality - Gini Index,North Carolina,0.475
-2015,Income Inequality - Gini Index,North Dakota,0.466
-2015,Income Inequality - Gini Index,Ohio,0.464
-2015,Income Inequality - Gini Index,Oklahoma,0.466
-2015,Income Inequality - Gini Index,Oregon,0.462
-2015,Income Inequality - Gini Index,Pennsylvania,0.469
-2015,Income Inequality - Gini Index,Rhode Island,0.483
-2015,Income Inequality - Gini Index,South Carolina,0.469
-2015,Income Inequality - Gini Index,South Dakota,0.447
-2015,Income Inequality - Gini Index,Tennessee,0.481
-2015,Income Inequality - Gini Index,Texas,0.483
-2015,Income Inequality - Gini Index,Utah,0.428
-2015,Income Inequality - Gini Index,Vermont,0.441
-2015,Income Inequality - Gini Index,Virginia,0.466
-2015,Income Inequality - Gini Index,Washington,0.454
-2015,Income Inequality - Gini Index,West Virginia,0.455
-2015,Income Inequality - Gini Index,Wisconsin,0.44
-2015,Income Inequality - Gini Index,Wyoming,0.427
-2015,Income Inequality - Gini Index,United States,0.48
-2015,Income Inequality - Gini Index,District of Columbia,0.535
-2015,Violent Crime,Alabama,430.8
-2015,Violent Crime,Alaska,640.4
-2015,Violent Crime,Arizona,416.5
-2015,Violent Crime,Arkansas,460.3
-2015,Violent Crime,California,402.1
-2015,Violent Crime,Colorado,308
-2015,Violent Crime,Connecticut,262.5
-2015,Violent Crime,Delaware,491.4
-2015,Violent Crime,Florida,470.4
-2015,Violent Crime,Georgia,365.7
-2015,Violent Crime,Hawaii,251.6
-2015,Violent Crime,Idaho,217
-2015,Violent Crime,Illinois,380.2
-2015,Violent Crime,Indiana,357.4
-2015,Violent Crime,Iowa,271.4
-2015,Violent Crime,Kansas,339.9
-2015,Violent Crime,Kentucky,209.8
-2015,Violent Crime,Louisiana,518.5
-2015,Violent Crime,Maine,129.3
-2015,Violent Crime,Maryland,473.8
-2015,Violent Crime,Massachusetts,413.4
-2015,Violent Crime,Michigan,449.9
-2015,Violent Crime,Minnesota,234.4
-2015,Violent Crime,Mississippi,274.6
-2015,Violent Crime,Missouri,433.4
-2015,Violent Crime,Montana,252.9
-2015,Violent Crime,Nebraska,262.1
-2015,Violent Crime,Nevada,603
-2015,Violent Crime,New Hampshire,215.3
-2015,Violent Crime,New Jersey,288.5
-2015,Violent Crime,New Mexico,613
-2015,Violent Crime,New York,393.7
-2015,Violent Crime,North Carolina,342.2
-2015,Violent Crime,North Dakota,270.1
-2015,Violent Crime,Ohio,286.2
-2015,Violent Crime,Oklahoma,441.2
-2015,Violent Crime,Oregon,254
-2015,Violent Crime,Pennsylvania,335.4
-2015,Violent Crime,Rhode Island,257.2
-2015,Violent Crime,South Carolina,508.5
-2015,Violent Crime,South Dakota,316.5
-2015,Violent Crime,Tennessee,590.6
-2015,Violent Crime,Texas,408.3
-2015,Violent Crime,Utah,224
-2015,Violent Crime,Vermont,121.1
-2015,Violent Crime,Virginia,196.2
-2015,Violent Crime,Washington,289.1
-2015,Violent Crime,West Virginia,300.3
-2015,Violent Crime,Wisconsin,277.9
-2015,Violent Crime,Wyoming,205.1
-2015,Violent Crime,United States,367.9
-2015,Violent Crime,District of Columbia,1300.3
-2016,High School Graduation,Alabama,89.3
-2016,High School Graduation,Alaska,75.6
-2016,High School Graduation,Arizona,77.4
-2016,High School Graduation,Arkansas,84.9
-2016,High School Graduation,California,82
-2016,High School Graduation,Colorado,77.3
-2016,High School Graduation,Connecticut,87.2
-2016,High School Graduation,Delaware,85.6
-2016,High School Graduation,Florida,77.9
-2016,High School Graduation,Georgia,78.8
-2016,High School Graduation,Hawaii,81.6
-2016,High School Graduation,Idaho,78.9
-2016,High School Graduation,Illinois,85.6
-2016,High School Graduation,Indiana,87.1
-2016,High School Graduation,Iowa,90.8
-2016,High School Graduation,Kansas,85.7
-2016,High School Graduation,Kentucky,88
-2016,High School Graduation,Louisiana,77.5
-2016,High School Graduation,Maine,87.5
-2016,High School Graduation,Maryland,87
-2016,High School Graduation,Massachusetts,87.3
-2016,High School Graduation,Michigan,79.8
-2016,High School Graduation,Minnesota,81.9
-2016,High School Graduation,Mississippi,75.4
-2016,High School Graduation,Missouri,87.8
-2016,High School Graduation,Montana,86
-2016,High School Graduation,Nebraska,88.9
-2016,High School Graduation,Nevada,71.3
-2016,High School Graduation,New Hampshire,88.1
-2016,High School Graduation,New Jersey,89.7
-2016,High School Graduation,New Mexico,68.6
-2016,High School Graduation,New York,79.2
-2016,High School Graduation,North Carolina,85.6
-2016,High School Graduation,North Dakota,86.6
-2016,High School Graduation,Ohio,80.7
-2016,High School Graduation,Oklahoma,82.5
-2016,High School Graduation,Oregon,73.8
-2016,High School Graduation,Pennsylvania,84.8
-2016,High School Graduation,Rhode Island,83.2
-2016,High School Graduation,South Carolina,80.3
-2016,High School Graduation,South Dakota,83.9
-2016,High School Graduation,Tennessee,87.9
-2016,High School Graduation,Texas,89
-2016,High School Graduation,Utah,84.8
-2016,High School Graduation,Vermont,87.7
-2016,High School Graduation,Virginia,85.7
-2016,High School Graduation,Washington,78.2
-2016,High School Graduation,West Virginia,86.5
-2016,High School Graduation,Wisconsin,88.4
-2016,High School Graduation,Wyoming,79.3
-2016,High School Graduation,District of Columbia,68.5
-2016,High School Graduation,United States,83.2
-2016,Income Inequality - Gini Index,Alaska,0.432
-2016,Income Inequality - Gini Index,Alabama,0.481
-2016,Income Inequality - Gini Index,United States,0.482
-2016,Income Inequality - Gini Index,Arkansas,0.477
-2016,Income Inequality - Gini Index,Arizona,0.47
-2016,Income Inequality - Gini Index,California,0.488
-2016,Income Inequality - Gini Index,Colorado,0.458
-2016,Income Inequality - Gini Index,Connecticut,0.492
-2016,Income Inequality - Gini Index,Delaware,0.452
-2016,Income Inequality - Gini Index,Florida,0.487
-2016,Income Inequality - Gini Index,Georgia,0.48
-2016,Income Inequality - Gini Index,Hawaii,0.435
-2016,Income Inequality - Gini Index,Iowa,0.439
-2016,Income Inequality - Gini Index,Idaho,0.453
-2016,Income Inequality - Gini Index,Illinois,0.482
-2016,Income Inequality - Gini Index,Indiana,0.452
-2016,Income Inequality - Gini Index,Kansas,0.46
-2016,Income Inequality - Gini Index,Kentucky,0.478
-2016,Income Inequality - Gini Index,Louisiana,0.491
-2016,Income Inequality - Gini Index,Massachusetts,0.485
-2016,Income Inequality - Gini Index,Maryland,0.452
-2016,Income Inequality - Gini Index,Maine,0.452
-2016,Income Inequality - Gini Index,Michigan,0.467
-2016,Income Inequality - Gini Index,Minnesota,0.449
-2016,Income Inequality - Gini Index,Missouri,0.463
-2016,Income Inequality - Gini Index,Mississippi,0.476
-2016,Income Inequality - Gini Index,Montana,0.462
-2016,Income Inequality - Gini Index,North Carolina,0.478
-2016,Income Inequality - Gini Index,North Dakota,0.466
-2016,Income Inequality - Gini Index,Nebraska,0.447
-2016,Income Inequality - Gini Index,New Hampshire,0.435
-2016,Income Inequality - Gini Index,New Jersey,0.483
-2016,Income Inequality - Gini Index,New Mexico,0.48
-2016,Income Inequality - Gini Index,Nevada,0.455
-2016,Income Inequality - Gini Index,New York,0.514
-2016,Income Inequality - Gini Index,Ohio,0.464
-2016,Income Inequality - Gini Index,Oklahoma,0.47
-2016,Income Inequality - Gini Index,Oregon,0.462
-2016,Income Inequality - Gini Index,Pennsylvania,0.469
-2016,Income Inequality - Gini Index,Rhode Island,0.473
-2016,Income Inequality - Gini Index,South Carolina,0.47
-2016,Income Inequality - Gini Index,South Dakota,0.444
-2016,Income Inequality - Gini Index,Tennessee,0.479
-2016,Income Inequality - Gini Index,Texas,0.482
-2016,Income Inequality - Gini Index,Utah,0.425
-2016,Income Inequality - Gini Index,Virginia,0.468
-2016,Income Inequality - Gini Index,Vermont,0.445
-2016,Income Inequality - Gini Index,Washington,0.456
-2016,Income Inequality - Gini Index,Wisconsin,0.441
-2016,Income Inequality - Gini Index,West Virginia,0.458
-2016,Income Inequality - Gini Index,Wyoming,0.437
-2016,Income Inequality - Gini Index,District of Columbia,0.535
-2016,Violent Crime,Alaska,730
-2016,Violent Crime,Alabama,472
-2016,Violent Crime,United States,383
-2016,Violent Crime,Arkansas,521
-2016,Violent Crime,Arizona,410
-2016,Violent Crime,California,426
-2016,Violent Crime,Colorado,321
-2016,Violent Crime,Connecticut,219
-2016,Violent Crime,District of Columbia,1269
-2016,Violent Crime,Delaware,499
-2016,Violent Crime,Florida,462
-2016,Violent Crime,Georgia,378
-2016,Violent Crime,Hawaii,293
-2016,Violent Crime,Iowa,286
-2016,Violent Crime,Idaho,216
-2016,Violent Crime,Illinois,384
-2016,Violent Crime,Indiana,388
-2016,Violent Crime,Kansas,390
-2016,Violent Crime,Kentucky,219
-2016,Violent Crime,Louisiana,540
-2016,Violent Crime,Massachusetts,391
-2016,Violent Crime,Maryland,457
-2016,Violent Crime,Maine,130
-2016,Violent Crime,Michigan,416
-2016,Violent Crime,Minnesota,243
-2016,Violent Crime,Missouri,497
-2016,Violent Crime,Mississippi,276
-2016,Violent Crime,Montana,350
-2016,Violent Crime,North Carolina,347
-2016,Violent Crime,North Dakota,239
-2016,Violent Crime,Nebraska,275
-2016,Violent Crime,New Hampshire,199
-2016,Violent Crime,New Jersey,255
-2016,Violent Crime,New Mexico,656
-2016,Violent Crime,Nevada,696
-2016,Violent Crime,New York,380
-2016,Violent Crime,Ohio,292
-2016,Violent Crime,Oklahoma,422
-2016,Violent Crime,Oregon,260
-2016,Violent Crime,Pennsylvania,315
-2016,Violent Crime,Rhode Island,243
-2016,Violent Crime,South Carolina,505
-2016,Violent Crime,South Dakota,383
-2016,Violent Crime,Tennessee,612
-2016,Violent Crime,Texas,412
-2016,Violent Crime,Utah,236
-2016,Violent Crime,Virginia,196
-2016,Violent Crime,Vermont,118
-2016,Violent Crime,Washington,284
-2016,Violent Crime,Wisconsin,306
-2016,Violent Crime,West Virginia,338
-2016,Violent Crime,Wyoming,222
-2017,High School Graduation,Alabama,89.3
-2017,High School Graduation,Alaska,75.6
-2017,High School Graduation,Arizona,77.4
-2017,High School Graduation,Arkansas,84.9
-2017,High School Graduation,California,82
-2017,High School Graduation,Colorado,77.3
-2017,High School Graduation,Connecticut,87.2
-2017,High School Graduation,Delaware,85.6
-2017,High School Graduation,Florida,77.9
-2017,High School Graduation,Georgia,78.8
-2017,High School Graduation,Hawaii,81.6
-2017,High School Graduation,Idaho,78.9
-2017,High School Graduation,Illinois,85.6
-2017,High School Graduation,Indiana,87.1
-2017,High School Graduation,Iowa,90.8
-2017,High School Graduation,Kansas,85.7
-2017,High School Graduation,Kentucky,88
-2017,High School Graduation,Louisiana,77.5
-2017,High School Graduation,Maine,87.5
-2017,High School Graduation,Maryland,87
-2017,High School Graduation,Massachusetts,87.3
-2017,High School Graduation,Michigan,79.8
-2017,High School Graduation,Minnesota,81.9
-2017,High School Graduation,Mississippi,75.4
-2017,High School Graduation,Missouri,87.8
-2017,High School Graduation,Montana,86
-2017,High School Graduation,Nebraska,88.9
-2017,High School Graduation,Nevada,71.3
-2017,High School Graduation,New Hampshire,88.1
-2017,High School Graduation,New Jersey,89.7
-2017,High School Graduation,New Mexico,68.6
-2017,High School Graduation,New York,79.2
-2017,High School Graduation,North Carolina,85.6
-2017,High School Graduation,North Dakota,86.6
-2017,High School Graduation,Ohio,80.7
-2017,High School Graduation,Oklahoma,82.5
-2017,High School Graduation,Oregon,73.8
-2017,High School Graduation,Pennsylvania,84.8
-2017,High School Graduation,Rhode Island,83.2
-2017,High School Graduation,South Carolina,80.3
-2017,High School Graduation,South Dakota,83.9
-2017,High School Graduation,Tennessee,87.9
-2017,High School Graduation,Texas,89
-2017,High School Graduation,Utah,84.8
-2017,High School Graduation,Vermont,87.7
-2017,High School Graduation,Virginia,85.7
-2017,High School Graduation,Washington,78.2
-2017,High School Graduation,West Virginia,86.5
-2017,High School Graduation,Wisconsin,88.4
-2017,High School Graduation,Wyoming,79.3
-2017,High School Graduation,District of Columbia,68.5
-2017,High School Graduation,United States,83.2
-2017,Income Inequality - Gini Index,Alaska,0.408
-2017,Income Inequality - Gini Index,Alabama,0.485
-2017,Income Inequality - Gini Index,United States,0.482
-2017,Income Inequality - Gini Index,Arkansas,0.472
-2017,Income Inequality - Gini Index,Arizona,0.471
-2017,Income Inequality - Gini Index,California,0.49
-2017,Income Inequality - Gini Index,Colorado,0.459
-2017,Income Inequality - Gini Index,Connecticut,0.495
-2017,Income Inequality - Gini Index,Delaware,0.452
-2017,Income Inequality - Gini Index,Florida,0.485
-2017,Income Inequality - Gini Index,Georgia,0.481
-2017,Income Inequality - Gini Index,Hawaii,0.442
-2017,Income Inequality - Gini Index,Iowa,0.445
-2017,Income Inequality - Gini Index,Idaho,0.45
-2017,Income Inequality - Gini Index,Illinois,0.481
-2017,Income Inequality - Gini Index,Indiana,0.453
-2017,Income Inequality - Gini Index,Kansas,0.455
-2017,Income Inequality - Gini Index,Kentucky,0.481
-2017,Income Inequality - Gini Index,Louisiana,0.499
-2017,Income Inequality - Gini Index,Massachusetts,0.479
-2017,Income Inequality - Gini Index,Maryland,0.45
-2017,Income Inequality - Gini Index,Maine,0.452
-2017,Income Inequality - Gini Index,Michigan,0.47
-2017,Income Inequality - Gini Index,Minnesota,0.45
-2017,Income Inequality - Gini Index,Missouri,0.465
-2017,Income Inequality - Gini Index,Mississippi,0.483
-2017,Income Inequality - Gini Index,Montana,0.467
-2017,Income Inequality - Gini Index,North Carolina,0.478
-2017,Income Inequality - Gini Index,North Dakota,0.453
-2017,Income Inequality - Gini Index,Nebraska,0.448
-2017,Income Inequality - Gini Index,New Hampshire,0.43
-2017,Income Inequality - Gini Index,New Jersey,0.481
-2017,Income Inequality - Gini Index,New Mexico,0.477
-2017,Income Inequality - Gini Index,Nevada,0.458
-2017,Income Inequality - Gini Index,New York,0.513
-2017,Income Inequality - Gini Index,Ohio,0.468
-2017,Income Inequality - Gini Index,Oklahoma,0.465
-2017,Income Inequality - Gini Index,Oregon,0.458
-2017,Income Inequality - Gini Index,Pennsylvania,0.469
-2017,Income Inequality - Gini Index,Rhode Island,0.478
-2017,Income Inequality - Gini Index,South Carolina,0.474
-2017,Income Inequality - Gini Index,South Dakota,0.45
-2017,Income Inequality - Gini Index,Tennessee,0.479
-2017,Income Inequality - Gini Index,Texas,0.48
-2017,Income Inequality - Gini Index,Utah,0.426
-2017,Income Inequality - Gini Index,Virginia,0.471
-2017,Income Inequality - Gini Index,Vermont,0.454
-2017,Income Inequality - Gini Index,Washington,0.459
-2017,Income Inequality - Gini Index,Wisconsin,0.45
-2017,Income Inequality - Gini Index,West Virginia,0.471
-2017,Income Inequality - Gini Index,Wyoming,0.436
-2017,Income Inequality - Gini Index,District of Columbia,0.542
-2017,Violent Crime,Alaska,804
-2017,Violent Crime,Alabama,532
-2017,Violent Crime,United States,397
-2017,Violent Crime,Arkansas,551
-2017,Violent Crime,Arizona,470
-2017,Violent Crime,California,445
-2017,Violent Crime,Colorado,343
-2017,Violent Crime,Connecticut,227
-2017,Violent Crime,District of Columbia,1206
-2017,Violent Crime,Delaware,509
-2017,Violent Crime,Florida,430
-2017,Violent Crime,Georgia,398
-2017,Violent Crime,Hawaii,309
-2017,Violent Crime,Iowa,291
-2017,Violent Crime,Idaho,230
-2017,Violent Crime,Illinois,436
-2017,Violent Crime,Indiana,405
-2017,Violent Crime,Kansas,380
-2017,Violent Crime,Kentucky,232
-2017,Violent Crime,Louisiana,566
-2017,Violent Crime,Massachusetts,377
-2017,Violent Crime,Maryland,472
-2017,Violent Crime,Maine,124
-2017,Violent Crime,Michigan,459
-2017,Violent Crime,Minnesota,243
-2017,Violent Crime,Missouri,519
-2017,Violent Crime,Mississippi,281
-2017,Violent Crime,Montana,368
-2017,Violent Crime,North Carolina,372
-2017,Violent Crime,North Dakota,251
-2017,Violent Crime,Nebraska,291
-2017,Violent Crime,New Hampshire,198
-2017,Violent Crime,New Jersey,245
-2017,Violent Crime,New Mexico,703
-2017,Violent Crime,Nevada,678
-2017,Violent Crime,New York,376
-2017,Violent Crime,Ohio,300
-2017,Violent Crime,Oklahoma,450
-2017,Violent Crime,Oregon,265
-2017,Violent Crime,Pennsylvania,316
-2017,Violent Crime,Rhode Island,239
-2017,Violent Crime,South Carolina,502
-2017,Violent Crime,South Dakota,418
-2017,Violent Crime,Tennessee,633
-2017,Violent Crime,Texas,434
-2017,Violent Crime,Utah,243
-2017,Violent Crime,Virginia,218
-2017,Violent Crime,Vermont,158
-2017,Violent Crime,Washington,302
-2017,Violent Crime,Wisconsin,306
-2017,Violent Crime,West Virginia,358
-2017,Violent Crime,Wyoming,244
-2018,High School Graduation,Alabama,87.1
-2018,High School Graduation,Alaska,76.1
-2018,High School Graduation,Arizona,79.5
-2018,High School Graduation,Arkansas,87
-2018,High School Graduation,California,83
-2018,High School Graduation,Colorado,78.9
-2018,High School Graduation,Connecticut,87.4
-2018,High School Graduation,Delaware,85.5
-2018,High School Graduation,Florida,80.7
-2018,High School Graduation,Georgia,79.4
-2018,High School Graduation,Hawaii,82.7
-2018,High School Graduation,Idaho,79.7
-2018,High School Graduation,Illinois,85.5
-2018,High School Graduation,Indiana,86.8
-2018,High School Graduation,Iowa,91.3
-2018,High School Graduation,Kansas,85.7
-2018,High School Graduation,Kentucky,88.6
-2018,High School Graduation,Louisiana,78.6
-2018,High School Graduation,Maine,87
-2018,High School Graduation,Maryland,87.6
-2018,High School Graduation,Massachusetts,87.5
-2018,High School Graduation,Michigan,79.7
-2018,High School Graduation,Minnesota,82.2
-2018,High School Graduation,Mississippi,82.3
-2018,High School Graduation,Missouri,89
-2018,High School Graduation,Montana,85.6
-2018,High School Graduation,Nebraska,89.3
-2018,High School Graduation,Nevada,73.6
-2018,High School Graduation,New Hampshire,88.2
-2018,High School Graduation,New Jersey,90.1
-2018,High School Graduation,New Mexico,71
-2018,High School Graduation,New York,80.4
-2018,High School Graduation,North Carolina,85.9
-2018,High School Graduation,North Dakota,87.5
-2018,High School Graduation,Ohio,83.5
-2018,High School Graduation,Oklahoma,81.6
-2018,High School Graduation,Oregon,74.8
-2018,High School Graduation,Pennsylvania,86.1
-2018,High School Graduation,Rhode Island,82.8
-2018,High School Graduation,South Carolina,82.6
-2018,High School Graduation,South Dakota,83.9
-2018,High School Graduation,Tennessee,88.5
-2018,High School Graduation,Texas,89.1
-2018,High School Graduation,Utah,85.2
-2018,High School Graduation,Vermont,87.7
-2018,High School Graduation,Virginia,86.7
-2018,High School Graduation,Washington,79.7
-2018,High School Graduation,West Virginia,89.8
-2018,High School Graduation,Wisconsin,88.2
-2018,High School Graduation,Wyoming,80
-2018,High School Graduation,District of Columbia,69.2
-2018,High School Graduation,United States,84.1
-2018,Income Inequality - Gini Index,Alaska,0.424
-2018,Income Inequality - Gini Index,Alabama,0.477
-2018,Income Inequality - Gini Index,United States,0.482
-2018,Income Inequality - Gini Index,Arkansas,0.473
-2018,Income Inequality - Gini Index,Arizona,0.467
-2018,Income Inequality - Gini Index,California,0.487
-2018,Income Inequality - Gini Index,Colorado,0.455
-2018,Income Inequality - Gini Index,Connecticut,0.494
-2018,Income Inequality - Gini Index,Delaware,0.481
-2018,Income Inequality - Gini Index,Florida,0.486
-2018,Income Inequality - Gini Index,Georgia,0.483
-2018,Income Inequality - Gini Index,Hawaii,0.446
-2018,Income Inequality - Gini Index,Iowa,0.438
-2018,Income Inequality - Gini Index,Idaho,0.448
-2018,Income Inequality - Gini Index,Illinois,0.482
-2018,Income Inequality - Gini Index,Indiana,0.45
-2018,Income Inequality - Gini Index,Kansas,0.454
-2018,Income Inequality - Gini Index,Kentucky,0.478
-2018,Income Inequality - Gini Index,Louisiana,0.494
-2018,Income Inequality - Gini Index,Massachusetts,0.485
-2018,Income Inequality - Gini Index,Maryland,0.453
-2018,Income Inequality - Gini Index,Maine,0.453
-2018,Income Inequality - Gini Index,Michigan,0.467
-2018,Income Inequality - Gini Index,Minnesota,0.452
-2018,Income Inequality - Gini Index,Missouri,0.462
-2018,Income Inequality - Gini Index,Mississippi,0.479
-2018,Income Inequality - Gini Index,Montana,0.454
-2018,Income Inequality - Gini Index,North Carolina,0.476
-2018,Income Inequality - Gini Index,North Dakota,0.455
-2018,Income Inequality - Gini Index,Nebraska,0.439
-2018,Income Inequality - Gini Index,New Hampshire,0.439
-2018,Income Inequality - Gini Index,New Jersey,0.479
-2018,Income Inequality - Gini Index,New Mexico,0.478
-2018,Income Inequality - Gini Index,Nevada,0.461
-2018,Income Inequality - Gini Index,New York,0.516
-2018,Income Inequality - Gini Index,Ohio,0.464
-2018,Income Inequality - Gini Index,Oklahoma,0.466
-2018,Income Inequality - Gini Index,Oregon,0.459
-2018,Income Inequality - Gini Index,Pennsylvania,0.478
-2018,Income Inequality - Gini Index,Rhode Island,0.472
-2018,Income Inequality - Gini Index,South Carolina,0.48
-2018,Income Inequality - Gini Index,South Dakota,0.449
-2018,Income Inequality - Gini Index,Tennessee,0.482
-2018,Income Inequality - Gini Index,Texas,0.478
-2018,Income Inequality - Gini Index,Utah,0.423
-2018,Income Inequality - Gini Index,Virginia,0.467
-2018,Income Inequality - Gini Index,Vermont,0.453
-2018,Income Inequality - Gini Index,Washington,0.456
-2018,Income Inequality - Gini Index,Wisconsin,0.447
-2018,Income Inequality - Gini Index,West Virginia,0.469
-2018,Income Inequality - Gini Index,Wyoming,0.433
-2018,Income Inequality - Gini Index,District of Columbia,0.528
-2018,Violent Crime,Alaska,829
-2018,Violent Crime,Alabama,524
-2018,Violent Crime,United States,394
-2018,Violent Crime,Arkansas,555
-2018,Violent Crime,Arizona,508
-2018,Violent Crime,California,449
-2018,Violent Crime,Colorado,368
-2018,Violent Crime,Connecticut,228
-2018,Violent Crime,District of Columbia,1005
-2018,Violent Crime,Delaware,453
-2018,Violent Crime,Florida,408
-2018,Violent Crime,Georgia,357
-2018,Violent Crime,Hawaii,251
-2018,Violent Crime,Iowa,293
-2018,Violent Crime,Idaho,226
-2018,Violent Crime,Illinois,439
-2018,Violent Crime,Indiana,399
-2018,Violent Crime,Kansas,413
-2018,Violent Crime,Kentucky,226
-2018,Violent Crime,Louisiana,557
-2018,Violent Crime,Massachusetts,358
-2018,Violent Crime,Maryland,500
-2018,Violent Crime,Maine,121
-2018,Violent Crime,Michigan,450
-2018,Violent Crime,Minnesota,238
-2018,Violent Crime,Missouri,530
-2018,Violent Crime,Mississippi,286
-2018,Violent Crime,Montana,377
-2018,Violent Crime,North Carolina,364
-2018,Violent Crime,North Dakota,281
-2018,Violent Crime,Nebraska,306
-2018,Violent Crime,New Hampshire,199
-2018,Violent Crime,New Jersey,229
-2018,Violent Crime,New Mexico,784
-2018,Violent Crime,Nevada,556
-2018,Violent Crime,New York,357
-2018,Violent Crime,Ohio,298
-2018,Violent Crime,Oklahoma,456
-2018,Violent Crime,Oregon,282
-2018,Violent Crime,Pennsylvania,313
-2018,Violent Crime,Rhode Island,232
-2018,Violent Crime,South Carolina,506
-2018,Violent Crime,South Dakota,434
-2018,Violent Crime,Tennessee,652
-2018,Violent Crime,Texas,439
-2018,Violent Crime,Utah,239
-2018,Violent Crime,Virginia,208
-2018,Violent Crime,Vermont,166
-2018,Violent Crime,Washington,305
-2018,Violent Crime,Wisconsin,320
-2018,Violent Crime,West Virginia,351
-2018,Violent Crime,Wyoming,238
+﻿Year,State Name,High School Graduation,Income Inequality - Gini Index,Violent Crime,
+2015,Alabama,80,0.476,430.8,
+2015,Alaska,71.8,0.418,640.4,
+2015,Arizona,75.1,0.468,416.5,
+2015,Arkansas,84.9,0.471,460.3,
+2015,California,80.4,0.489,402.1,
+2015,Colorado,76.9,0.458,308,
+2015,Connecticut,85.5,0.501,262.5,
+2015,Delaware,80.4,0.449,491.4,
+2015,Florida,75.6,0.483,470.4,
+2015,Georgia,71.7,0.48,365.7,
+2015,Hawaii,82.4,0.433,251.6,
+2015,Idaho,,0.454,217,
+2015,Illinois,83.2,0.477,380.2,
+2015,Indiana,87,0.446,357.4,
+2015,Iowa,89.7,0.443,271.4,
+2015,Kansas,85.7,0.46,339.9,
+2015,Kentucky,86.1,0.47,209.8,
+2015,Louisiana,73.5,0.49,518.5,
+2015,Maine,86.4,0.459,129.3,
+2015,Maryland,85,0.449,473.8,
+2015,Massachusetts,85,0.486,413.4,
+2015,Michigan,77,0.46,449.9,
+2015,Minnesota,79.8,0.454,234.4,
+2015,Mississippi,75.5,0.476,274.6,
+2015,Missouri,85.7,0.463,433.4,
+2015,Montana,84.4,0.454,252.9,
+2015,Nebraska,88.5,0.435,262.1,
+2015,Nevada,70.7,0.443,603,
+2015,New Hampshire,87.3,0.441,215.3,
+2015,New Jersey,87.5,0.476,288.5,
+2015,New Mexico,70.3,0.477,613,
+2015,New York,76.8,0.511,393.7,
+2015,North Carolina,82.5,0.475,342.2,
+2015,North Dakota,87.5,0.466,270.1,
+2015,Ohio,82.2,0.464,286.2,
+2015,Oklahoma,84.8,0.466,441.2,
+2015,Oregon,68.7,0.462,254,
+2015,Pennsylvania,85.5,0.469,335.4,
+2015,Rhode Island,79.7,0.483,257.2,
+2015,South Carolina,77.6,0.469,508.5,
+2015,South Dakota,82.7,0.447,316.5,
+2015,Tennessee,86.3,0.481,590.6,
+2015,Texas,88,0.483,408.3,
+2015,Utah,83,0.428,224,
+2015,Vermont,86.6,0.441,121.1,
+2015,Virginia,84.5,0.466,196.2,
+2015,Washington,76.4,0.454,289.1,
+2015,West Virginia,81.4,0.455,300.3,
+2015,Wisconsin,88,0.44,277.9,
+2015,Wyoming,77,0.427,205.1,
+2016,Alabama,89.3,0.432,730,
+2016,Alaska,75.6,0.481,472,
+2016,Arizona,77.4,0.477,521,
+2016,Arkansas,84.9,0.47,410,
+2016,California,82,0.488,426,
+2016,Colorado,77.3,0.458,321,
+2016,Connecticut,87.2,0.492,219,
+2016,Delaware,85.6,0.452,499,
+2016,Florida,77.9,0.487,462,
+2016,Georgia,78.8,0.48,378,
+2016,Hawaii,81.6,0.435,293,
+2016,Idaho,78.9,0.439,286,
+2016,Illinois,85.6,0.453,216,
+2016,Indiana,87.1,0.482,384,
+2016,Iowa,90.8,0.452,388,
+2016,Kansas,85.7,0.46,390,
+2016,Kentucky,88,0.478,219,
+2016,Louisiana,77.5,0.491,540,
+2016,Maine,87.5,0.485,391,
+2016,Maryland,87,0.452,457,
+2016,Massachusetts,87.3,0.452,130,
+2016,Michigan,79.8,0.467,416,
+2016,Minnesota,81.9,0.449,243,
+2016,Mississippi,75.4,0.463,497,
+2016,Missouri,87.8,0.476,276,
+2016,Montana,86,0.462,350,
+2016,Nebraska,88.9,0.478,347,
+2016,Nevada,71.3,0.466,239,
+2016,New Hampshire,88.1,0.447,275,
+2016,New Jersey,89.7,0.435,199,
+2016,New Mexico,68.6,0.483,255,
+2016,New York,79.2,0.48,656,
+2016,North Carolina,85.6,0.455,696,
+2016,North Dakota,86.6,0.514,380,
+2016,Ohio,80.7,0.464,292,
+2016,Oklahoma,82.5,0.47,422,
+2016,Oregon,73.8,0.462,260,
+2016,Pennsylvania,84.8,0.469,315,
+2016,Rhode Island,83.2,0.473,243,
+2016,South Carolina,80.3,0.47,505,
+2016,South Dakota,83.9,0.444,383,
+2016,Tennessee,87.9,0.479,612,
+2016,Texas,89,0.482,412,
+2016,Utah,84.8,0.425,236,
+2016,Vermont,87.7,0.468,196,
+2016,Virginia,85.7,0.445,118,
+2016,Washington,78.2,0.456,284,
+2016,West Virginia,86.5,0.441,306,
+2016,Wisconsin,88.4,0.458,338,
+2016,Wyoming,79.3,0.437,222,
+2017,Alabama,89.3,0.408,804,
+2017,Alaska,75.6,0.485,532,
+2017,Arizona,77.4,0.472,551,
+2017,Arkansas,84.9,0.471,470,
+2017,California,82,0.49,445,
+2017,Colorado,77.3,0.459,343,
+2017,Connecticut,87.2,0.495,227,
+2017,Delaware,85.6,0.452,509,
+2017,Florida,77.9,0.485,430,
+2017,Georgia,78.8,0.481,398,
+2017,Hawaii,81.6,0.442,309,
+2017,Idaho,78.9,0.445,291,
+2017,Illinois,85.6,0.45,230,
+2017,Indiana,87.1,0.481,436,
+2017,Iowa,90.8,0.453,405,
+2017,Kansas,85.7,0.455,380,
+2017,Kentucky,88,0.481,232,
+2017,Louisiana,77.5,0.499,566,
+2017,Maine,87.5,0.479,377,
+2017,Maryland,87,0.45,472,
+2017,Massachusetts,87.3,0.452,124,
+2017,Michigan,79.8,0.47,459,
+2017,Minnesota,81.9,0.45,243,
+2017,Mississippi,75.4,0.465,519,
+2017,Missouri,87.8,0.483,281,
+2017,Montana,86,0.467,368,
+2017,Nebraska,88.9,0.478,372,
+2017,Nevada,71.3,0.453,251,
+2017,New Hampshire,88.1,0.448,291,
+2017,New Jersey,89.7,0.43,198,
+2017,New Mexico,68.6,0.481,245,
+2017,New York,79.2,0.477,703,
+2017,North Carolina,85.6,0.458,678,
+2017,North Dakota,86.6,0.513,376,
+2017,Ohio,80.7,0.468,300,
+2017,Oklahoma,82.5,0.465,450,
+2017,Oregon,73.8,0.458,265,
+2017,Pennsylvania,84.8,0.469,316,
+2017,Rhode Island,83.2,0.478,239,
+2017,South Carolina,80.3,0.474,502,
+2017,South Dakota,83.9,0.45,418,
+2017,Tennessee,87.9,0.479,633,
+2017,Texas,89,0.48,434,
+2017,Utah,84.8,0.426,243,
+2017,Vermont,87.7,0.471,218,
+2017,Virginia,85.7,0.454,158,
+2017,Washington,78.2,0.459,302,
+2017,West Virginia,86.5,0.45,306,
+2017,Wisconsin,88.4,0.471,358,
+2017,Wyoming,79.3,0.436,244,
+2018,Alabama,87.1,0.424,829,
+2018,Alaska,76.1,0.477,524,
+2018,Arizona,79.5,0.473,555,
+2018,Arkansas,87,0.467,508,
+2018,California,83,0.487,449,
+2018,Colorado,78.9,0.455,368,
+2018,Connecticut,87.4,0.494,228,
+2018,Delaware,85.5,0.481,453,
+2018,Florida,80.7,0.486,408,
+2018,Georgia,79.4,0.483,357,
+2018,Hawaii,82.7,0.446,251,
+2018,Idaho,79.7,0.438,293,
+2018,Illinois,85.5,0.448,226,
+2018,Indiana,86.8,0.482,439,
+2018,Iowa,91.3,0.45,399,
+2018,Kansas,85.7,0.454,413,
+2018,Kentucky,88.6,0.478,226,
+2018,Louisiana,78.6,0.494,557,
+2018,Maine,87,0.485,358,
+2018,Maryland,87.6,0.453,500,
+2018,Massachusetts,87.5,0.453,121,
+2018,Michigan,79.7,0.467,450,
+2018,Minnesota,82.2,0.452,238,
+2018,Mississippi,82.3,0.462,530,
+2018,Missouri,89,0.479,286,
+2018,Montana,85.6,0.454,377,
+2018,Nebraska,89.3,0.476,364,
+2018,Nevada,73.6,0.455,281,
+2018,New Hampshire,88.2,0.439,306,
+2018,New Jersey,90.1,0.439,199,
+2018,New Mexico,71,0.479,229,
+2018,New York,80.4,0.478,784,
+2018,North Carolina,85.9,0.461,556,
+2018,North Dakota,87.5,0.516,357,
+2018,Ohio,83.5,0.464,298,
+2018,Oklahoma,81.6,0.466,456,
+2018,Oregon,74.8,0.459,282,
+2018,Pennsylvania,86.1,0.478,313,
+2018,Rhode Island,82.8,0.472,232,
+2018,South Carolina,82.6,0.48,506,
+2018,South Dakota,83.9,0.449,434,
+2018,Tennessee,88.5,0.482,652,
+2018,Texas,89.1,0.478,439,
+2018,Utah,85.2,0.423,239,
+2018,Vermont,87.7,0.467,208,
+2018,Virginia,86.7,0.453,166,
+2018,Washington,79.7,0.456,305,
+2018,West Virginia,89.8,0.447,320,
+2018,Wisconsin,88.2,0.469,351,
+2018,Wyoming,80,0.433,238,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
