@@ -1,4 +1,4 @@
-Year,State_Name,High_School_Graduation,Income_Inequality_Gini_Index,Violent_Crime,
+Year,State_Name,High_School_Graduation,Income_Inequality_Gini_Index,Violent_Crime
 2015,Alabama,80,0.476,430.8
 2015,Alaska,71.8,0.418,640.4
 2015,Arizona,75.1,0.468,416.5
@@ -10,7 +10,7 @@ Year,State_Name,High_School_Graduation,Income_Inequality_Gini_Index,Violent_Crim
 2015,Florida,75.6,0.483,470.4
 2015,Georgia,71.7,0.48,365.7
 2015,Hawaii,82.4,0.433,251.6
-2015,Idaho,,0.454,217
+2015,Idaho,78.9,0.454,217
 2015,Illinois,83.2,0.477,380.2
 2015,Indiana,87,0.446,357.4
 2015,Iowa,89.7,0.443,271.4
